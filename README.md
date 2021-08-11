@@ -22,9 +22,9 @@ This was a project for my CUS635 - Web Data Mining course in which we were taske
 ### Topic Modeling
 
 4. Perform a topic analysis by applying any of the models learned in class:
-   a. Try your best to identify the optimal number of topics k contained in your dataset.
-   b. Provide a descriptive label for each topic; e.g. "Side Effects" or "Pneumonia".
-   c. Report your results
+   - Try your best to identify the optimal number of topics k contained in your dataset.
+   - Provide a descriptive label for each topic; e.g. "Side Effects" or "Pneumonia".
+   - Report your results
 
 ## Dataset Used
 
