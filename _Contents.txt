@@ -1,0 +1,11 @@
+CUS 635 - Web Data Mining
+Peter Tadrous
+Spring 2021
+
+Contents of this zip file:
+
+01_PowerPoint: AnalyzingMedicalQuestions.pptx
+02_Notebook for first part: AnalyzingMedicalQuestions_Part1.ipynb
+03_Notebook for second part: AnalyzingMedicalQuestions_Part2.ipynb
+04_Final dataset with kmeans clusters and dbscan clusters: final_df.csv
+05_Cleaned Original Dataset: final_tokenized_questions.csv
